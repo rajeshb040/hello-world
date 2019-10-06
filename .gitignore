@@ -1,2 +1,5 @@
-bin
-build
+*.ipr
+*.iws
+*.iml
+target
+/.idea/
